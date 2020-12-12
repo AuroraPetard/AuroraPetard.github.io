@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Aurora的博客</title>
   
-  
+  <subtitle>Aurora的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-10T15:23:55.634Z</updated>
+  <updated>2020-12-12T11:53:51.454Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Aurora</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/08/27/blog-open-source/"/>
     <id>http://yoursite.com/2019/08/27/blog-open-source/</id>
     <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2020-12-10T15:23:55.634Z</updated>
+    <updated>2020-12-12T11:53:51.454Z</updated>
     
     <summary type="html">
     
